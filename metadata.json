@@ -1,0 +1,5 @@
+{
+  "name": "SIWES Logbook Pro",
+  "description": "A comprehensive web application for managing the Student Industrial Work Experience Scheme (SIWES) process. It provides dedicated dashboards for Students, Industrial Supervisors, Academic Supervisors, and Administrators to streamline logbook entries, approvals, and evaluations.",
+  "requestFramePermissions": []
+}
